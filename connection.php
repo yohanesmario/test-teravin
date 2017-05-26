@@ -25,6 +25,4 @@
                 `alamat` VARCHAR(2000) NOT NULL
             );
         ");
-
-        echo "created";
     }
