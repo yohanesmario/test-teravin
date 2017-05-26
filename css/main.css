@@ -1,0 +1,18 @@
+.glyphicon-triangle-top,
+.glyphicon-triangle-bottom {
+    cursor: pointer;
+}
+
+.address-btn {
+    margin:0px;
+}
+
+.input-group .form-control {
+    border-radius: 4px !important;
+}
+
+.input-group-addon {
+    padding:0px 0px 0px 10px;
+    border:0px;
+    background: transparent;
+}
